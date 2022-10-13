@@ -1,0 +1,38 @@
+.imagen {
+    display: block;
+    width: 150px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+   
+    }
+    #foto{
+        text-align: center;
+    }
+
+.agrupar {
+
+    background: #fffbcc;  
+    width: 960px;
+    height: 920px ;
+    border: 2px solid black;
+    padding: 10px;
+    margin: auto;
+}
+
+.destacar {
+    color:  rgb(190, 31, 31);
+}
+#h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#h2 {
+    text-align: center;
+    
+}
+.navegacion li {
+    list-style: none;
+}
+
